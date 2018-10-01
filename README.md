@@ -8,9 +8,6 @@ A simple todo list web application created with HTML, CSS & JQuery
 2. Users can delete items of their to do list
 3. Users can cross items off their to do list
 
-
-![screen shot 2018-10-01 at 2 06 04 pm](https://user-images.githubusercontent.com/19616063/46307094-fd8c0600-c583-11e8-983f-55696dc5d267.png)
-
-![screen shot 2018-10-01 at 2 07 55 pm](https://user-images.githubusercontent.com/19616063/46307100-01b82380-c584-11e8-813b-b377d1b62f8b.png)
-
-![screen shot 2018-10-01 at 2 06 52 pm](https://user-images.githubusercontent.com/19616063/46307104-041a7d80-c584-11e8-9ea2-650eafaf50af.png)
+![screen shot 2018-10-01 at 2 15 42 pm](https://user-images.githubusercontent.com/19616063/46307428-e4378980-c584-11e8-8b3a-e5ff46bcdcf5.png)
+![screen shot 2018-10-01 at 2 06 04 pm](https://user-images.githubusercontent.com/19616063/46307429-e4378980-c584-11e8-921c-4146f1eb7a04.png)
+![screen shot 2018-10-01 at 2 06 52 pm](https://user-images.githubusercontent.com/19616063/46307430-e4d02000-c584-11e8-9e40-9b5ce1797ca2.png)
