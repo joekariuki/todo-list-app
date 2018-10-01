@@ -1,9 +1,9 @@
 # Todo List App
 
-##Summary 
+## Summary 
 A simple todo list web application created with HTML, CSS & JQuery
 
-##Features
+## Features
 1. Users can add items to their to do list
 2. Users can delete items of their to do list
 3. Users can cross items off their to do list
