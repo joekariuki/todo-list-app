@@ -1,5 +1,3 @@
-# Todo List App
-
 ## Summary 
 A simple todo list web application created with HTML, CSS & JQuery
 
